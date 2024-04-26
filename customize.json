@@ -2,7 +2,7 @@
   "greeting": "Yo",
   "name": "Rosa",
   "greetingText": "Juste Ro comme dirai mon S24 Ultra",
-  "wishText": "blablablablabla",
+  "wishText": "Bounty2",
   "imagePath": "img/Screenshot_20240403-131138402_1.jpg",
   "text1": "C'est ton anniversaire!!! :D",
   "textInChatBox": "Joyeux anniversaire à toi!! La viellesse arrive !...",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": ".",
-  "replayText": ".",
+  "outroText": "J'espère que ça t'a plu,",
+  "replayText": "Appuie ici pour relancer le site",
   "outroSmiley": ":)"
 }
